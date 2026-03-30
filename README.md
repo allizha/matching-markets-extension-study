@@ -2,11 +2,12 @@
 
 ### Semester Project — Swiss Joint Master in Computer Science
 
-This repository contains the code, report, and presentation for a semester project completed in the seminar **Trustworthy AI Models and Systems** at the **University of Neuchâtel**, within the **Swiss Joint Master in Computer Science**.
+This repository contains the code, report, and presentation for a semester project completed in the seminar **Trustworthy AI Models and Systems** at the **University of Neuchâtel**, within the [Swiss Joint Master in Computer Science](https://mcs.unibnf.ch/).
 
 The project reproduces and extends the results of the paper:
 
 > Liu, L. T., Mania, H., & Jordan, M. (2020). *Competing Bandits in Matching Markets*.
+> [https://arxiv.org/abs/1906.05363](https://arxiv.org/abs/1906.05363)
 
 ---
 
