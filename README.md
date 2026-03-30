@@ -7,7 +7,7 @@ This repository contains the code, report, and presentation for a semester proje
 
 The project focuses on reproducing and extending the results of the paper:
 
-> Liu, L. T., Mania, H., & Jordan, M. (2020). *Competing Bandits in Matching Markets*. 
+> Liu, L. T., Mania, H., & Jordan, M. (2020). *Competing Bandits in Matching Markets*.   
 > [https://arxiv.org/abs/1906.05363](https://arxiv.org/abs/1906.05363)
 
 ---
