@@ -8,11 +8,37 @@ The project reproduces and extends the results of the paper:
 
 > Liu, L. T., Mania, H., & Jordan, M. (2020). *Competing Bandits in Matching Markets*.
 
-## Collaboration
+---
 
-This project was developed in collaboration with [Flaminia Trinca](https://github.com/ftrinca).
+## Project Overview
 
-The corresponding collaborative repository is:
-[github.com/ftrinca/matching-markets](https://github.com/ftrinca/matching-markets)
+This project studies learning dynamics in matching markets through a reproduction and extension of the original paper.
 
-This repository is my personal academic portfolio version of the project.
+We implement centralized multi-armed bandit algorithms and evaluate their performance in matching environments. The work focuses on understanding regret behavior, convergence, and the impact of different market structures.
+
+---
+
+## Main Contributions
+
+- Implementation of centralized **ETC (Explore-Then-Commit)** and **UCB (Upper Confidence Bound)** algorithms  
+- Reproduction of key experimental results from the original paper  
+- Analysis of regret in matching market settings  
+- Extension using alternative evaluation metrics (e.g., optimal matching regret)  
+- Experiments on randomized and more complex market scenarios  
+- Exploration of a two-sided learning setting  
+
+---
+
+## Repository Contents
+
+- `matching-markets.ipynb` — implementation and experimental analysis  
+- `report.pdf` — full report with methodology, results, and discussion  
+- `presentation.pdf` — presentation slides  
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/allizha/matching-markets-extension-study.git
