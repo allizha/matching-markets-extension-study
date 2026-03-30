@@ -1,6 +1,6 @@
-# Competing Bandits in Matching Markets — Reproduction and Extensions
+# Competing Bandits in Matching Markets
 
-### Semester Project — Swiss Joint Master in Computer Science
+### Reproduction & Extension Study — Semester Project (Swiss Joint Master in CS)
 
 This repository contains the code, report, and presentation for a semester project completed in the seminar **Trustworthy AI Models and Systems** at the **University of Neuchâtel**, within the [Swiss Joint Master in Computer Science](https://mcs.unibnf.ch/).
 
