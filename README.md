@@ -20,25 +20,68 @@ We implement centralized multi-armed bandit algorithms and evaluate their perfor
 
 ## Main Contributions
 
-- Implementation of centralized **ETC (Explore-Then-Commit)** and **UCB (Upper Confidence Bound)** algorithms  
-- Reproduction of key experimental results from the original paper  
-- Analysis of regret in matching market settings  
-- Extension using alternative evaluation metrics (e.g., optimal matching regret)  
-- Experiments on randomized and more complex market scenarios  
-- Exploration of a two-sided learning setting  
+- Implementation of centralized **ETC (Explore-Then-Commit)** and **UCB (Upper Confidence Bound)** algorithms
+- Reproduction of key experimental results from the original paper
+- Analysis of regret in matching market settings
+- Extension using alternative evaluation metrics (e.g., optimal matching regret)
+- Experiments on randomized and more complex market scenarios
+- Exploration of a two-sided learning setting
 
 ---
 
 ## Repository Contents
 
-- `matching-markets.ipynb` — implementation and experimental analysis  
-- `report.pdf` — full report with methodology, results, and discussion  
-- `presentation.pdf` — presentation slides  
+- `matching-markets.ipynb` — implementation and experimental analysis
+- `report.pdf` — full report with methodology, results, and discussion
+- `presentation.pdf` — presentation slides
 
 ---
 
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/allizha/matching-markets-extension-study.git
+
+    git clone https://github.com/allizha/matching-markets-extension-study.git
+
+2. Open the notebook:
+
+    matching-markets.ipynb
+
+3. Run all cells to reproduce the experiments.
+
+---
+
+## Skills Demonstrated
+
+- Python
+- Jupyter Notebook
+- Multi-armed bandits
+- Matching markets
+- Experimental evaluation
+- Research reproduction
+
+---
+
+## Authors & Collaboration
+
+- Allizha Theiventhiram — University of Neuchâtel
+- Flaminia Trinca — University of Bern
+
+This project was developed collaboratively.
+
+The original repository is available here:  
+https://github.com/ftrinca/matching-markets
+
+This repository is my personal academic portfolio version of the project.
+
+---
+
+## Reference
+
+Liu, L. T., Mania, H., & Jordan, M. (2020). *Competing Bandits in Matching Markets*. AISTATS.
+
+---
+
+## License
+
+This project is shared for academic and educational purposes.
